@@ -19,7 +19,7 @@ import {
 import TagComonenent from '../Styles/Tag';
 
 const GITHUB_USERNAME = 'ibrahimshamma99';
-const GITHUB_REPO_NAME = 'Ibrahim-Blog';
+const GITHUB_REPO_NAME = 'IbrahimPerBlog';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
